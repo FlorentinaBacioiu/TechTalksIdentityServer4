@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalks.Api", "TechTalks.Api\TechTalks.Api.csproj", "{4B4F14CA-701B-4B39-914D-33AE58D3C263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalks.IdentityServer", "TechTalks.IdentityServer\TechTalks.IdentityServer.csproj", "{158CA080-759F-4E63-AA49-A42A54A71D40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B4F14CA-701B-4B39-914D-33AE58D3C263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B4F14CA-701B-4B39-914D-33AE58D3C263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B4F14CA-701B-4B39-914D-33AE58D3C263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B4F14CA-701B-4B39-914D-33AE58D3C263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{158CA080-759F-4E63-AA49-A42A54A71D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158CA080-759F-4E63-AA49-A42A54A71D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158CA080-759F-4E63-AA49-A42A54A71D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158CA080-759F-4E63-AA49-A42A54A71D40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F61B3AA8-9351-431A-85C3-8CEDA0CEC96B}
+	EndGlobalSection
+EndGlobal
